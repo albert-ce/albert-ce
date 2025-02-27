@@ -12,10 +12,14 @@
 
 ### Languages & Tools
 
+<div display="flexbox" flex-direction="row" gap="10em">
 <img src="https://img.shields.io/badge/Python-254f71?style=for-the-badge&logo=python&logoColor=254f71&labelColor=FFD43B" alt="Python" /> 
 <img src="https://img.shields.io/badge/C%2B%2B-323230?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</div>
 
 ### Stats & Metrics
 
+<div display="flexbox" flex-direction="row" gap="10em">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=albert-ce&show_icons=true&theme=dark&rank_icon=github" />
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ce&hide_progress=true&theme=dark" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ce&theme=dark&size_weight=0&count_weight=1&layout=donut" />
+</div>
