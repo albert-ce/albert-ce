@@ -1,18 +1,21 @@
-## Hi there 👋
+## Hello world, I'm Albert! 👋
 
-<!--
-**albert-ce/albert-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Game of Life](username_of_life.gif)  
+<!-- *Like this GIF banner? Create your own version with my repository: [username-of-life](https://github.com/albert-ce/username-of-life)* -->
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Computer Engineering student at UAB.
+- 🧠 Passionate about Artificial Intelligence, Machine Learning, and algorithmic thinking.
+- 🔍 Enjoy problem-solving and finding effective solutions.
+- 🚀 Excited to contribute to innovative projects in AI and algorithm development.
+- 🌱 Always looking to improve my skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
 
-![Game of Life](game_of_life.gif)
+<img src="https://img.shields.io/badge/Python-254f71?style=for-the-badge&logo=python&logoColor=254f71&labelColor=FFD43B" alt="Python" /> 
+<img src="https://img.shields.io/badge/C%2B%2B-323230?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+
+### Stats & Metrics
+
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=albert-ce&show_icons=true&theme=dark&rank_icon=github" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ce&hide_progress=true&theme=dark" />
