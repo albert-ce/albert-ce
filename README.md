@@ -23,6 +23,3 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=albert-ce&show_icons=true&theme=dark&rank_icon=github" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ce&theme=dark&size_weight=0&count_weight=1&layout=donut" />
 </div>
-
-\
-*It ain't much, but it's honest work :)*
