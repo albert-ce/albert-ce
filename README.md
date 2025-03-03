@@ -1,7 +1,7 @@
 ## Hello world, I'm Albert! 👋
 
 ![Game of Life](username_of_life.gif)  
-<!-- *Like this GIF banner? Create your own version with my repository: [username-of-life](https://github.com/albert-ce/username-of-life)* -->
+*Like this GIF banner? Create your own version with my repository: [username-of-life](https://github.com/albert-ce/username-of-life)!*
 
 ### About Me
 - 🎓 Computer Engineering student at UAB.
@@ -20,6 +20,6 @@
 ### Stats & Metrics
 
 <div display="flexbox" flex-direction="row" gap="30em">
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=albert-ce&show_icons=true&theme=dark&rank_icon=github" />
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ce&theme=dark&size_weight=0&count_weight=1&layout=donut" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=albert-ce&show_icons=true&theme=dark&rank_icon=github" />
+<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albert-ce&theme=dark&size_weight=0&count_weight=1&layout=donut" />
 </div>
